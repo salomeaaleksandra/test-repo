@@ -21,4 +21,3 @@ code.
 
 Here is a link [a link](https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna)
 ![This os an image.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/King_Richard_III.jpg/800px-King_Richard_III.jpg)
-
